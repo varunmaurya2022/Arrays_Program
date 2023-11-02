@@ -1,2 +1,2 @@
 # Arrays_Program
-The Repository are related to Array programes.
+This Repository are related to Array programes.
